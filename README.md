@@ -10,6 +10,9 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/424573213993992214/1032308589106298890/AD89BDA0-E4AA-4B50-86AD-ADBCDEA3504F.jpg" height="100" width="100" alt="html5 logo"  />
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo"  />
