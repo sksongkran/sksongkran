@@ -18,23 +18,57 @@
   <a href="https://www.w3schools.com/html/default.asp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
   </a>
+  <a href="https://www.w3schools.com/css/default.asp">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo"  />
+  </a>
+  <a href="https://www.javascript.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
+  </a>
+  <a href="https://getbootstrap.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="50" alt="bootstrap logo"  />
+  </a>
+  <a href="https://reactjs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="react logo"  />
+  </a>
+  <a href="https://www.typescriptlang.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo"  />
+  </a>
+  <a href="https://mui.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="50" width="50" alt="mui logo"  />
+  </a>
+  <a href="https://tailwindcss.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="50" width="50" alt="tailwind logo"  />
+  </a>
+  <a href="https://yarnpkg.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" width="50" alt="yarn logo"  />
+  </a>
+  <a href="https://redux.js.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" alt="redux logo"  />
+  </a>
+  <a href="https://nodejs.org/en/">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" width="50" alt="nodejs logo"  />
+  </a>
+  <a href="https://expressjs.com/">
   <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" height="50" width="50" alt="express logo"  />
+  </a>
+  <a href="https://www.adobe.com/th_th/products/illustrator.html">
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" height="50" width="50" alt="illustrator logo"  />
+  </a>
+  <a href="https://www.adobe.com/th_th/products/photoshop.html">
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="50" width="50" alt="photoshop logo"  />
+  </a>
+  <a href="https://www.adobe.com/th_th/products/xd.html">
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" height="50" width="50" alt="xd logo"  />
+  </a>
+  <a href="https://www.postgresql.org/">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" width="50" alt="postgres logo"  />
+  </a>
+  <a href="https://www.mongodb.com/home">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="mongodb logo"  />
+  </a>
+  <a href="https://git-scm.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo"  />
+  </a>
 </div>
 
 ###
