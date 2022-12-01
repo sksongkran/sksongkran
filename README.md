@@ -25,9 +25,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" height="50" width="50" alt="tailwind logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" width="50" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" alt="redux logo"  />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" width="50" alt="nodejs logo"  />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" width="50" alt="express logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" height="50" width="50" alt="illustrator logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="50" width="50" alt="photoshop logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" height="50" width="50" alt="xd logo"  />
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" width="50" alt="postgres logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="50" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo"  />
 </div>
