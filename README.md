@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" width="50" alt="yarn logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" width="50" alt="redux logo"  />
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" width="50" alt="nodejs logo"  />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" width="50" alt="express logo"  />
+  <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" height="50" width="50" alt="express logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" height="50" width="50" alt="illustrator logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="50" width="50" alt="photoshop logo"  />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" height="50" width="50" alt="xd logo"  />
