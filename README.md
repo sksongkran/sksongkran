@@ -30,6 +30,9 @@
   <a href="https://reactjs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="50" alt="react logo"  />
   </a>
+  <a href="https://nextjs.org/">
+  <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" height="50" width="50" alt="nextjs logo"  />
+  </a>
   <a href="https://www.typescriptlang.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" width="50" alt="typescript logo"  />
   </a>
