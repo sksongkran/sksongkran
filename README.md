@@ -12,7 +12,7 @@
 
 ###
 <div align="center">
-  <a href="https://www.picz.in.th/image/v073d8"><img src="https://sv1.picz.in.th/images/2022/10/19/v073d8.md.jpg" alt="v073d8.jpg" border="0" /></a>
+<!--   <a href="https://www.picz.in.th/image/v073d8"><img src="https://sv1.picz.in.th/images/2022/10/19/v073d8.md.jpg" alt="v073d8.jpg" border="0" /></a> -->
 </div>
 <br/>
 <div align="center">
