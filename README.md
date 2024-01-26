@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! My name is Songkran Call me SK or Kran </h1>
+<h1 align="center">Hi ! My name is Songkran Call me Kran </h1>
 <h1 align="center">I'm Front-End Developer</h1>
 
 ###
